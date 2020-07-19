@@ -17,3 +17,5 @@ This folder contains the files created during the numerous lessons of week 1 of 
     The updated example client with the get_text function
 - Week 1 Lesson 7 - w1l7socket_server.py
     The updated example server with the send_text function
+- Week 1 Project - w1project.py
+    A simple chat application
